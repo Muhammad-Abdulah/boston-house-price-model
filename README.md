@@ -30,5 +30,3 @@ An end-to-end Machine Learning project that predicts Boston house prices using a
 - Target: Median house price (medv)
 
 ---
-
-## 📁 Project Structure
